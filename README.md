@@ -6,7 +6,7 @@
     This repository contains the complete source code for the Vision Walk system.
     <br/>
     <br/>
-    <a href="https://github.com/riddhibhuva/Vision Walk HCI">View Demo</a>
+    <a href="https://github.com/riddhibhuva/Vision-Walk-HCI">View Demo</a>
     .
     <a href="https://github.com/riddhibhuva/Vision-Walk-HCI/issues">Report Bug</a>
     .
