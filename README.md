@@ -6,11 +6,11 @@
     This repository contains the complete source code for the Vision Walk system.
     <br/>
     <br/>
-    <a href="https://github.com/shashank6341/Vision Walk HCI">View Demo</a>
+    <a href="https://github.com/riddhibhuva/Vision Walk HCI">View Demo</a>
     .
-    <a href="https://github.com/shashank6341/Vision-Walk-HCI/issues">Report Bug</a>
+    <a href="https://github.com/riddhibhuva/Vision-Walk-HCI/issues">Report Bug</a>
     .
-    <a href="https://github.com/shashank6341/Vision-Walk-HCI/issues">Request Feature</a>
+    <a href="https://github.com/riddhibhuva/Vision-Walk-HCI/issues">Request Feature</a>
     .
     <a href="https://youtu.be/mFafPWAMyGI">Teaser Video Youtube Link</a>
     .
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![180](https://github.com/shashank6341/Vision-Walk-HCI/assets/8446697/d48c9116-773e-42d7-9bcb-211c94a05122)
+![180](https://github.com/riddhibhuva/Vision-Walk-HCI/assets/8446697/d48c9116-773e-42d7-9bcb-211c94a05122)
 
 Three components of Vision Walk are:
 
@@ -110,7 +110,7 @@ ngrok config add-authtoken <your-auth-key>
 1. Clone this repository.
 
 ```sh
-https://github.com/shashank6341/Vision-Walk-HCI.git
+https://github.com/riddhibhuva/Vision-Walk-HCI.git
 ```
 
 2. Navigate to the repository
@@ -178,10 +178,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **[Shashank Verma](https://github.com/shashank6341/)** - *Concordia University*
-* **[Ayushi Chaudhary](https://github.com/shashank6341/)** - *Concordia University*
-* **[Het Dalal](https://github.com/shashank6341/)** - *Concordia University*
-* **[Khyati Bareja](https://github.com/shashank6341/)** - *Concordia University*
-* **[Kenish Halani](https://github.com/shashank6341/)** - *Concordia University*
-* **[Riddhi Bhuva](https://github.com/shashank6341/)** - *Concordia University*
-* **[Rohit Rohit](https://github.com/shashank6341/)** - *Concordia University*
+* **[Riddhi Bhuva](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Shashank Verma](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Ayushi Chaudhary](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Het Dalal](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Khyati Bareja](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Kenish Halani](https://github.com/riddhibhuva/)** - *Concordia University*
+* **[Rohit Rohit](https://github.com/riddhibhuva/)** - *Concordia University*
